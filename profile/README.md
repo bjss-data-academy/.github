@@ -34,7 +34,7 @@ With further learning on data modelling techniques.
 4 weeks full-time | fully remote | Suitable as first course
 
 ### Week 1
-- [Key Concepts](xxx)
+- [Data Engineering Fundamentals](https://github.com/bjss-data-academy/data-engineering-fundamentals/blob/main/README.md)
 - [Python Essentials](https://github.com/bjss-data-academy/python-essentials/blob/main/README.md)
 - [Entity Relation Diagrams](https://github.com/bjss-data-academy/entity-relation-diagrams/blob/main/README.md)
 - [SQL for Data Engineering](https://github.com/bjss-data-academy/sql-for-data-engineering/blob/main/README.md)

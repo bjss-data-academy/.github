@@ -1,7 +1,24 @@
 # BJSS Data Academy
+Our mix of original content and curated training for Data Engineers.
 
-## Data Engineering with Apache Spark and Databricks
-Four week full-time course introducing Data Engineering.
+## Data Engineering with Databricks Fundamentals
+At the end of this course, you will have used Apache Spark and a Databricks Data Lakehouse to analyse patterns in a data set of your choice.
+
+Practically focussed learning covers:
+- Python essentials, suitable for those new to Python
+- Documenting data with industry-standard entity Relation Diagrams
+- Apach Spark programming with Python and SQL
+- Databricks Data Lakehouse architecture and application
+- Using the Medallion Architecture to create and refine data
+- The Star Schema and its use in data analysis
+- Organising data by Facts and Dimensions
+- Kimball types
+- Handling slowly changing dimensions
+- Scraping data from the web using BeautifulSoup
+
+With further learning on data modelling techniques.
+
+4 weeks full-time | fully remote | Suitable as first course
 
 ### Week 1
 - [Key Concepts](xxx)

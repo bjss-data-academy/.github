@@ -14,7 +14,7 @@ Four week full-time course introducing Data Engineering.
 - [Apache Spark with Pyspark and Azure Databricks](https://www.databricks.com/training/catalog/apache-spark-programming-with-databricks-134)
   
 ### Week 3
-- (Data Engineering with Azure Databricks
+- [Data Engineering with Azure Databricks
 ](https://www.databricks.com/training/catalog/data-engineering-with-databricks-911)
 
 ### Week 4

@@ -14,8 +14,8 @@ Courses available now
 ## Data Engineering with Databricks Fundamentals
 At the end of this course, you will have used Apache Spark and a Databricks Data Lakehouse to analyse patterns in a data set of your choice.
 
-<details open>
-<summary>Course Overview</summary>
+<details closed>
+<summary>Click for Course Overview</summary>
 <br>
 Practically focussed learning covers:
   <br>

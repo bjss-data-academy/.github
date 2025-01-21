@@ -18,19 +18,23 @@ At the end of this course, you will have used Apache Spark and a Databricks Data
 <summary>Course Overview</summary>
 <br>
 Practically focussed learning covers:
-- Python essentials, suitable for those new to Python
-- Documenting data with industry-standard entity Relation Diagrams
-- Apache Spark programming with Python and SQL
-- Databricks Data Lakehouse architecture and application
-- Using the Medallion Architecture to create and refine data
-- The Star Schema and its use in data analysis
-- Organising data by Facts and Dimensions
-- Kimball types of dimensions
-- Handling slowly changing dimensions
-- Databricks features: Liquid Clustering, Unity Catalog
-- Pitfalls: Avoiding data skew and disk spill
-- Scraping data from the web using BeautifulSoup
-- Testing with Pytest
+  <br>
+  <ul>
+<li> Python essentials, suitable for those new to Python</li>
+<li> Documenting data with industry-standard entity Relation Diagrams</li>
+<li> Apache Spark programming with Python and SQL</li>
+<li> Databricks Data Lakehouse architecture and application</li>
+<li> Using the Medallion Architecture to create and refine data</li>
+<li> The Star Schema and its use in data analysis</li>
+<li> Organising data by Facts and Dimensions</li>
+<li> Kimball types of dimensions</li>
+<li> Handling slowly changing dimensions</li>
+<li> Databricks features: Liquid Clustering, Unity Catalog</li>
+<li> Pitfalls: Avoiding data skew and disk spill</li>
+<li> Scraping data from the web using BeautifulSoup</li>
+<li> Testing with Pytest</li>
+    
+  </ul>
 
 With further learning on data modelling techniques.
 </details>

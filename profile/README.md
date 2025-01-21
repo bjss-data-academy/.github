@@ -17,7 +17,7 @@ At the end of this course, you will have used Apache Spark and a Databricks Data
 Practically focussed learning covers:
 - Python essentials, suitable for those new to Python
 - Documenting data with industry-standard entity Relation Diagrams
-- Apach Spark programming with Python and SQL
+- Apache Spark programming with Python and SQL
 - Databricks Data Lakehouse architecture and application
 - Using the Medallion Architecture to create and refine data
 - The Star Schema and its use in data analysis
@@ -41,11 +41,10 @@ With further learning on data modelling techniques.
 - [Further reading](xxx)
   
 ### Week 2
-- [Apache Spark with Pyspark and Azure Databricks](https://www.databricks.com/training/catalog/apache-spark-programming-with-databricks-134)
+- [Apache Spark Programming with Databricks](https://www.databricks.com/training/catalog/apache-spark-programming-with-databricks-134)
   
 ### Week 3
-- [Data Engineering with Azure Databricks
-](https://www.databricks.com/training/catalog/data-engineering-with-databricks-911)
+- [Data Engineering with Databricks](https://www.databricks.com/training/catalog/data-engineering-with-databricks-911)
 
 ### Week 4
 - Small group project work

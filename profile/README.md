@@ -14,6 +14,9 @@ Courses available now
 ## Data Engineering with Databricks Fundamentals
 At the end of this course, you will have used Apache Spark and a Databricks Data Lakehouse to analyse patterns in a data set of your choice.
 
+<details open>
+<summary>Course Overview</summary>
+<br>
 Practically focussed learning covers:
 - Python essentials, suitable for those new to Python
 - Documenting data with industry-standard entity Relation Diagrams
@@ -30,8 +33,9 @@ Practically focussed learning covers:
 - Testing with Pytest
 
 With further learning on data modelling techniques.
+</details>
 
-4 weeks full-time | fully remote | Suitable as first course
+| 4 weeks full-time | fully remote | Suitable as first course |
 
 ### Week 1
 - [Data Engineering Fundamentals](https://github.com/bjss-data-academy/data-engineering-fundamentals/blob/main/README.md)

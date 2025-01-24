@@ -47,6 +47,7 @@ With further learning on data modelling techniques.
 - [Entity Relation Diagrams](https://github.com/bjss-data-academy/entity-relation-diagrams/blob/main/README.md)
 - [SQL for Data Engineering](https://github.com/bjss-data-academy/sql-for-data-engineering/blob/main/README.md)
 - [Getting started with Databricks](https://github.com/bjss-data-academy/getting-started-databricks/blob/main/README.md)
+- [Agile Data Warehouse Modelling](https://learning.oreilly.com/course/agile-data-warehouse/9781771374095/)
 - [Further reading](https://github.com/bjss-data-academy/further-reading-data-eng-fund/blob/main/README.md)
   
 ### Week 2

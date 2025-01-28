@@ -44,6 +44,7 @@ With further learning on data modelling techniques.
 ### Week 1
 - [Data Engineering Fundamentals](https://github.com/bjss-data-academy/data-engineering-fundamentals/blob/main/README.md)
 - [Python Essentials](https://github.com/bjss-data-academy/python-essentials/blob/main/README.md)
+- [Relational Data Essentials](https://github.com/bjssacademy/fundamentals-sql/blob/main/chapter3/chapter3.md)
 - [Entity Relation Diagrams](https://github.com/bjss-data-academy/entity-relation-diagrams/blob/main/README.md)
 - [SQL for Data Engineering](https://github.com/bjss-data-academy/sql-for-data-engineering/blob/main/README.md)
 - [Getting started with Databricks](https://github.com/bjss-data-academy/getting-started-databricks/blob/main/README.md)

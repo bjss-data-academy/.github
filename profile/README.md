@@ -54,6 +54,7 @@ With further learning on data modelling techniques.
 ### Week 2
 - [Apache Spark Programming with Databricks](https://www.databricks.com/training/catalog/apache-spark-programming-with-databricks-134)
 - Practice project
+- WIP [Working with Apache Spark in Databricks](https://github.com/bjss-data-academy/apache-spark-databricks)
   
 ### Week 3
 - [Data Engineering with Databricks](https://www.databricks.com/training/catalog/data-engineering-with-databricks-911)
